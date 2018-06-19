@@ -1,0 +1,21 @@
+{
+  "name": "eve-couturier",
+  "version": "0.0.1",
+  "description": "Eve Online Outfitters and Miscellaneous Appropiations",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron index.html"
+  },
+  "repository": "https://github.com/lnchambers/eve_couturier",
+  "keywords": [
+    "Eve",
+    "Eve Online",
+    "outfitter",
+    "Miscellaneous Appropiations",
+    "Caribbean Pie Rates"
+  ],
+  "author": "Luke Chambers",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
